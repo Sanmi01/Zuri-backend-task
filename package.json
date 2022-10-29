@@ -1,0 +1,12 @@
+{
+  "name": "zuri-backend-portfolio",
+  "version": "1.0.0",
+  "description": "Zuri Portfolio Task",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server"
+  },
+  "author": "\"Sanmi\"",
+  "license": "ISC",
+  "type": "module"
+}
